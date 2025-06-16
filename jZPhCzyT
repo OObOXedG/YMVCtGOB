@@ -1,7 +1,7 @@
 {
-  "users": [
-    "synap",
-    "dgfgfdfvgv",
-    "sfsfsfsdfs"
-  ]
+  "users": {
+    "synap": "SoNotClose",
+    "SniperWolf": "Wolfy",
+    "MyMainPC": "Booster Admin"
+  }
 }
